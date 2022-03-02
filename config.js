@@ -23,12 +23,12 @@ global.APIKeys = {
 
 
 // Other
-global.fortex = '✗✗✗ Rion'
-global.instagram = 'https://www.instagram.com/muhamad_rion27'
-global.youtube = 'https://m.youtube.com/channel/UCc62LJB6TIUOuTNqah04lSg'
-global.owner = ['6285695451209','62856954512091']
+global.fortex = 'ᴀɴᴅʀʏQɴɪɴᴇ'
+global.instagram = 'https://github.com/AndryQnn'
+global.youtube = 'https://youtube.com/channel/UCG887zXkJ7TYMwPAULTMolQ'
+global.owner = ['6285894148101','6285894148101']
 global.packname = 'BadbotMD'
-global.author = '✗✗✗ Rion \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n'
+global.author = 'ᴀɴᴅʀʏQɴɪɴᴇ \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'rionnnn'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
