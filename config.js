@@ -23,12 +23,12 @@ global.APIKeys = {
 
 
 // Other
-global.fortex = 'ᴀɴᴅʀʏQɴɪɴᴇ'
-global.instagram = 'https://github.com/AndryQnn'
+global.fortex = 'Intexstore-Bot'
+global.instagram = 'https://instagra.com/intexstore25'
 global.youtube = 'https://youtube.com/channel/UCG887zXkJ7TYMwPAULTMolQ'
-global.owner = ['6285894148101','6285894148101']
-global.packname = 'BadbotMD'
-global.author = 'ᴀɴᴅʀʏQɴɪɴᴇ \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n'
+global.owner = ['6285894148101','6285894148101','6281318054482,]
+global.packname = 'Intexstore-Bot'
+global.author = 'Intexstore-Bot \n\n\n \n \n\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'rionnnn'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
